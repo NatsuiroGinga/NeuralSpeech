@@ -2,7 +2,7 @@ import json
 import os
 
 
-def load_terms_from_json(file_path="data.json"):
+def load_terms_from_db(file_path="data.json"):
     """
     从指定的 JSON 文件加载专有名词数据
     :param file_path: JSON 文件路径，默认为当前目录下的 data.json
@@ -35,7 +35,7 @@ def load_terms_from_json(file_path="data.json"):
 
 # 使用示例
 if __name__ == "__main__":
-    terms = load_terms_from_json()
+    terms = load_terms_from_db()
     if terms:
         print("成功加载以下术语：")
         for term in terms:
