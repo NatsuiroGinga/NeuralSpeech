@@ -1,0 +1,12 @@
+原文: 爽相液冷板
+纠正: {'source': '爽相液冷板', 'target': '双相液冷板', 'errors': [('爽', '双', 0)]}
+方法: hybrid
+
+原文: 真通只用
+纠正: {'source': '真通只用', 'target': '真通只用', 'errors': []}
+方法: hybrid
+
+原文: 化为
+纠正: {'source': '化为', 'target': '化为', 'errors': []}
+方法: hybrid
+

@@ -1,0 +1,12 @@
+Original:  爽相液冷板
+Corrected: 爽相液冷板
+Method:    rule-based (no change)
+--------------------
+Original:  真通只用
+Corrected: 真通只用
+Method:    rule-based (no change)
+--------------------
+Original:  化为
+Corrected: 化为
+Method:    rule-based (no change)
+--------------------
